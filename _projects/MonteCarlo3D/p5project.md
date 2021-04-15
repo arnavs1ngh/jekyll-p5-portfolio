@@ -18,7 +18,7 @@ In this case, make sure to import all the files:
 </div>
 {% endhighlight %}
 
-This particle system is WORKING now?:
+This particle system is working for sure now?:
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch.js"></script>
 </div>
