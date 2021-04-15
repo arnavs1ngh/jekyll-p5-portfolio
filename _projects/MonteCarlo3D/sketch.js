@@ -7,7 +7,7 @@ let inPoints = 0;
 
 
 function setup() {
-  canvas = createCanvas(710, 400);
+  canvas = createCanvas(900, 900, WEBGL);
   canvas.parent('sketch-holder');
 }
 
