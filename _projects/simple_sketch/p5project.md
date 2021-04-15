@@ -7,11 +7,10 @@ dependencies:
     - p5
 ---
 
-<script>
+
 <div id="simple-sketch-holder">
     <script type="text/javascript" src="simple_sketch.js"></script>
 </div>
-</script>
 
 In order to include a P5.js sketch in your post:
 
