@@ -2,7 +2,7 @@
 layout: post
 title:  "Monte Carlo Pi estimation"
 date:   2020-04-15
-thumbnail: frame-2.png
+thumbnail: thumb.png
 dependencies:
     - p5
 ---
