@@ -20,5 +20,5 @@ In this case, make sure to import all the files:
 
 There's no way this doesnt work now:
 <div id="sketch-holder">
-    <script type="text/javascript" src="sketch.js"></script>
+    <script type="text/javascript" src="sketch1.js"></script>
 </div>
