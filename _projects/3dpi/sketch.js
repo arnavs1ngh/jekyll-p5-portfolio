@@ -7,7 +7,8 @@ let inPoints = 0;
 
 
 function setup() {
-  createCanvas(900,900, WEBGL);
+  canvas = createCanvas(900,900, WEBGL);
+  canvas.parent('sketch-holder')
 
   // slider = createSlider(0.005,0.03,0.01,0.005)
   // // slider.position(10,850)
