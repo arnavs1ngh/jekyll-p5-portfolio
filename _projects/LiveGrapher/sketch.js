@@ -1,4 +1,4 @@
-const W = 800, H = 800; // dimensions of canvas
+const W = windowWidth, H = windowHeight; // dimensions of canvas
 const time = 400; // number of x tick values
 const step = W/time; // time step
 
@@ -10,7 +10,9 @@ let pos, fy, c, price, colors, l, f;
 // 	price = loadTable('price.csv');
 // }
 
-
+function windowResized(){
+  resizeCanvas(windowWidth,windowHeight)
+}
 
 function setup() {
   canvas = createCanvas(W, H);
