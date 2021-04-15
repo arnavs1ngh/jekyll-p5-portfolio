@@ -2,7 +2,6 @@
 layout: post
 title:  "Live Graphing Animation"
 date:   2020-04-15
-thumbnail: thumb.png
 dependencies:
     - p5
 ---
