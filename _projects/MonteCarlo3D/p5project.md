@@ -2,7 +2,7 @@
 layout: post
 title:  "Monte Carlo Simulation in 3D"
 date:   15-04-2020
-thumbnail: particles_thumbnail.png
+thumbnail: frame-2.png
 dependencies:
     - p5
 ---
