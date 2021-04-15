@@ -6,8 +6,7 @@ dependencies:
     -p5
 ---
 
+3D version of [this](https://arnavs1ngh.github.io/visuals/projects/MonteCarlo3D/p5project.html)
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch.js"></script>
 </div>
-
-Just a simple animation
