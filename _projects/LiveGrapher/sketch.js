@@ -13,7 +13,8 @@ let pos, fy, c, price, colors, l, f;
 
 
 function setup() {
-  createCanvas(W, H);
+  canvas = createCanvas(W, H);
+  canvas.parent('sketch-holder')
   fill(255, 30, 70, 90);
   
   // array containing the x positions of the line graph, scaled to fit the canvas
