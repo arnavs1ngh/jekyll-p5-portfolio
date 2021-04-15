@@ -2,7 +2,7 @@ This project is a template for a simple portfolio of pictures and p5.js sketches
 
 # Live Demo
 
-https://benjaminhabert.github.io/jekyll-p5-portfolio/
+https://arnavs1ngh.github.io/visuals/
 
 # Features
 
