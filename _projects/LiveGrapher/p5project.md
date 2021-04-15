@@ -6,8 +6,9 @@ dependencies:
     - p5
 ---
 
-based on perlin noise for now, but could be adapted to use CSV to show any type of data really.
-
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch.js"></script>
 </div>
+based on perlin noise for now, but could be adapted to use CSV to show any type of data really.
+
+
