@@ -9,5 +9,5 @@ dependencies:
 
 There's no way this doesnt work now that i have done it perfectly:
 <div id="sketch-holder">
-    <script type="text/javascript" src="sketch1.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
 </div>
