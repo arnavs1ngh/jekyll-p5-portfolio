@@ -8,6 +8,6 @@ dependencies:
 ---
 
 <div id="sketch-holder">
-    <script type="text/javascript" src="sketch/sketch.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
 </div>
 
