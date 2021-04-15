@@ -7,17 +7,6 @@ dependencies:
     - p5
 ---
 
-It is often convenient to split a complex javascript file in different files.
-In this case, make sure to import all the files:
-
-{%highlight html %}
-<div id="sketch-holder">
-    <script type="text/javascript" src="sketch/Particle.js"></script>
-    <script type="text/javascript" src="sketch/ParticleSystem.js"></script>
-    <script type="text/javascript" src="sketch/sketch.js"></script>
-</div>
-{% endhighlight %}
-
 There's no way this doesnt work now:
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch1.js"></script>
