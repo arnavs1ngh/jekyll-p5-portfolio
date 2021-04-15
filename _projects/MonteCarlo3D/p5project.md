@@ -18,7 +18,7 @@ In this case, make sure to import all the files:
 </div>
 {% endhighlight %}
 
-This particle system is [one of p5.js official examples](https://p5js.org/examples/simulate-particle-system.html):
+This particle system is NOT WORKING?:
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch.js"></script>
 </div>
