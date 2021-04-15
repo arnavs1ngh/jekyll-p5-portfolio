@@ -19,21 +19,21 @@ function setup() {
 
 function draw() {
 
-  // let camX = map(mouseX,0,width,-800,800)
-  // camY = map(mouseY,0,height,0,1)
-  camY = 0.9
-  // camy = 0
-  eyeZ = (height/2)/tan(PI/6)
+//   // let camX = map(mouseX,0,width,-800,800)
+//   // camY = map(mouseY,0,height,0,1)
+//   camY = 0.9
+//   // camy = 0
+//   eyeZ = (height/2)/tan(PI/6)
 
-  //print(camY)
-  let speed = 0.005
+//   //print(camY)
+//   let speed = 0.005
 
-  let posx = 2*sin(frameCount*speed)
-  let posz = -2*cos(frameCount*speed)
-  //print(posx)
+//   let posx = 2*sin(frameCount*speed)
+//   let posz = -2*cos(frameCount*speed)
+//   //print(posx)
 
-  camera(tan(PI/6)*height*posx,-tan(PI/6)*height*0,posz*(height)*tan(PI/6),0,0,0,0,1,0)
-  perspective(camY*PI/3.0, width/height, eyeZ/10.0, eyeZ*10.0)
+//   camera(tan(PI/6)*height*posx,-tan(PI/6)*height*0,posz*(height)*tan(PI/6),0,0,0,0,1,0)
+//   perspective(camY*PI/3.0, width/height, eyeZ/10.0, eyeZ*10.0)
 
   background(155);
   stroke(0);
