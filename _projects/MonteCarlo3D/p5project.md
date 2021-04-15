@@ -7,7 +7,7 @@ dependencies:
     - p5
 ---
 
-There's no way this doesnt work now:
+There's no way this doesnt work now that i have done it perfectly:
 <div id="sketch-holder">
     <script type="text/javascript" src="sketch1.js"></script>
 </div>
