@@ -5,7 +5,8 @@ var totalPoints = 0;
 var inPoints = 0;
 
 function setup() {
-  createCanvas(400, 500);
+  canvas = createCanvas(400, 500);
+  canvas.parent('sketch-holder')
   
   textAlign(LEFT, BASELINE);
   textSize(16);
