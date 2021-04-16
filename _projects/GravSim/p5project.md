@@ -2,7 +2,7 @@
 layout: post
 title:  "Grav Sim"
 date:   2016-09-01
-thumbnail: "thumbG.png"
+thumbnail: thumbG.png
 dependencies:
     - p5
 ---
