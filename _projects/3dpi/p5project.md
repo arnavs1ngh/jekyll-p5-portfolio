@@ -9,7 +9,8 @@ dependencies:
 
 3D version of [this](https://arnavs1ngh.github.io/visuals/projects/MonteCarlo3D/p5project.html)
 <br>
-![replacement text in case image does not load](thumb3.png)
+![replacement text in case image does not load](thumb3.png)<br>
+Placeholder screenshot as WEBGL decided to stop working for me :/ <br>
 
 Could be interesting to think about the speed of convergence as you take this to higher and higher dimensions. I imagine that it would become a truly awful way to estimate pi but the comedic value is enough to justify doing this I guess.<br>
 Are there other ways to use uniform distribution to generate interesting numbers like e or perhaps just a better way of finding pi? I dont know but would be cool to find out.
