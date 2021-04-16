@@ -11,9 +11,7 @@ A 3D animation made with Adobe After Effects, using open source height data from
 [CLICK HERE IF EMBEDED VIDEO DOESN'T APPEAR](https://www.youtube.com/watch?v=HebQtZ-BpBQ)
 <br>
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=HebQtZ-BpBQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![3D Hawaii](https://i9.ytimg.com/vi/HebQtZ-BpBQ/mq3.jpg?sqp=CIis5oMG&rs=AOn4CLBiyA7IlkYhXpIGSoO0AEZkL9atJg)](https://www.youtube.com/watch?v=HebQtZ-BpBQ)
 
 <br>
 Hawaii was just a nice one to do but this can be replicated for any place on Earth, given the data exists.
