@@ -82,7 +82,7 @@ class Planet {
     stroke(255);
     // strokeWeight(1);;
     noStroke();
-    fill(255,0,50,100);
+    fill(255,150,50,100);
 
     ellipse(this.pos.x, this.pos.y, this.r * 2);
   }
