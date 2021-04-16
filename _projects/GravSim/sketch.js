@@ -6,7 +6,9 @@ let n = 8
 let a = 0.4
 
 function setup() {
-	createCanvas(windowWidth,windowHeight);
+	var canvas = createCanvas(windowWidth,windowHeight);
+	canvas.parent('sketch-holder')
+	
 	background(60);
 
 	// slider = createSlider(1,100,4,1);
