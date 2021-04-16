@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Map Visualisations"
 date:   2016-09-01
-thumbnail: thumbM.png
+thumbnail: https://i9.ytimg.com/vi/HebQtZ-BpBQ/mq3.jpg?sqp=CIis5oMG&rs=AOn4CLBiyA7IlkYhXpIGSoO0AEZkL9atJg
 dependencies:
     - p5
 ---
