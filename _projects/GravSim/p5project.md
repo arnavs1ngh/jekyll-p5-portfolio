@@ -1,18 +1,18 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2578
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+---
+layout: post
+title:  "Grav Sim"
+date:   2016-09-01
+dependencies:
+    - p5
+---
 
-\f0\fs24 \cf0 ---\
-layout: post\
-title:  \'93Maintenance\'94\
-date:   2020-04-15\
----\
-\
-This page is currently undergoing some minor maintenance, some sketches and projects may seem incomplete or with rendering bugs. <br>\
-I\'92m just updating the pages, with new formatting right now. It\'92ll be up to spec again soon!\
-\
-Thanks\
-}
+A simple gravity simulation, it makes some pretty patterns and traces the paths of planets. Altering values such as initial velocity, mass of the objects and the supreme power of changing the Gravitational constant all produce fairly interesting results.
+<br><br>
+
+I had an idea earlier about potentially seeing how gravity and the inverse square law could be used for an animated visualisation of ["The Basel Problem"](https://en.wikipedia.org/wiki/Basel_problem) but im not sure how conducive an animation would be to show this.
+
+<div id="sketch-holder">
+    <script type="text/javascript" src="planet.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
+</div>
+
