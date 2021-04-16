@@ -7,7 +7,8 @@ dependencies:
     - p5
 ---
 
-A 3D animation made with Adobe After Effects, using open source height data from Google, Texture map from Bing and a lot of hours trying to figure out why it didnt work
+A 3D animation made with Adobe After Effects, using open source height data from Google, Texture map from Bing and a lot of hours trying to figure out why it didnt work.
+[CLICK HERE IF EMBEDED VIDEO DOESN'T APPEAR](https://www.youtube.com/watch?v=HebQtZ-BpBQ)
 <br>
 
 <figure class="video_container">
