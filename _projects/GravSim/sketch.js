@@ -9,7 +9,7 @@ function setup() {
 	var canvas = createCanvas(windowWidth,windowHeight);
 	canvas.parent('sketch-holder')
 	
-	background(60);
+	background(10);
 
 	// slider = createSlider(1,100,4,1);
 	// slider.position(10,10);
