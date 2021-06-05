@@ -14,6 +14,8 @@ Given 2 points the curve passes through and the arc length between the 2 points.
 
 The system of equations necessary to solve for these parameters is transcendental and as a result computing the parameters numerically is the easiest option.
 
+Below you can drag around the 2 points, and see curves of various lengths being formed.
+
 <br><br>
 
 <div id="sketch-holder">
