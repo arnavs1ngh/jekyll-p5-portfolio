@@ -105,7 +105,7 @@ function setup() {
 }
 
 function draw() { 
-  background(50);
+  background(255);
   translate(windowWidth/2,windowHeight/2)
   rotate(PI)
 
@@ -189,7 +189,7 @@ function draw() {
 
 	noFill();
 	beginShape()
-	stroke(255)
+	stroke(255,100,0)
 	for (var i = 0, step = (shape2.x-shape1.x)/num; i<= num; i++) {
 		let x = shape1.x + i*step
 	  	let y = catenary1(x)
@@ -211,29 +211,4 @@ function mouseReleased() {
   shape1.released();
   shape2.released();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
