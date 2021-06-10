@@ -109,7 +109,7 @@ function draw() {
   translate(windowWidth/2,windowHeight/2)
   rotate(PI)
 
-  stroke(255)
+  stroke(0)
   line(-0.45*windowWidth,0,0.45*windowWidth,0)
   line(0,-0.45*windowHeight,0,0.45*windowHeight)
 
@@ -147,7 +147,7 @@ function draw() {
 
 	noFill();
 	beginShape()
-	stroke(100,255,0)
+	stroke(0,255,0)
 	for (var i = 0, step = (shape2.x-shape1.x)/num; i<= num; i++) {
 		let x = shape1.x + i*step
 	  	let y = catenary3(x)
@@ -168,7 +168,7 @@ function draw() {
 
 	noFill();
 	beginShape()
-	stroke(255,255,0)
+	stroke(0,0,255)
 	for (var i = 0, step = (shape2.x-shape1.x)/num; i<= num; i++) {
 		let x = shape1.x + i*step
 	  	let y = catenary2(x)
