@@ -11,6 +11,7 @@ See [this page](https://arnavs1ngh.github.io/visuals/projects/CatenaryPlot/p5pro
 
 
 Refresh the page to see the animation again, the parameters of this code can be varied to show curves of various lengths, balls of varying masses, and curves between any 2 points.
+Please mind that, scaling issues may occur due to a wide variety of screen sizes, that may not be supported as well
 
 <br><br>
 
