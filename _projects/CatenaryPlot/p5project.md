@@ -16,6 +16,8 @@ The system of equations necessary to solve for these parameters is transcendenta
 
 Below you can drag around the 2 points, and see curves of various lengths being formed.
 
+Please mind that, scaling issues may occur due to a wide variety of screen sizes, that may not be supported as well
+
 <br><br>
 
 <div id="sketch-holder">
